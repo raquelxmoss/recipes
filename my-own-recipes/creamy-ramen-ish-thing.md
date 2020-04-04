@@ -7,7 +7,7 @@
 - neutral oil
 - soy sauce
 - sambal oelek
-- coconut cream (milk will do too), about 1/3-1/2 cup
+- coconut cream (coconut milk will do too), about 1/3-1/2 cup
 
 ## Method
 
