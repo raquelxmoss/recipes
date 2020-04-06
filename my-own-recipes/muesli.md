@@ -1,12 +1,14 @@
-2 ¾ cups rolled oats
-1 cup shelled pistachios (or as much as you can afford, really)
-1 cup unsweetened coconut chips
-⅓ cup pumpkin seeds
-Salt to taste
-⅓ cup light brown sugar
-⅓ cup maple syrup
-⅓ cup extra virgin olive oil
-¾ cup dried sour cherries
+- 2 ¾ cups rolled oats
+- 1 cup shelled pistachios (or as much as you can afford, really)
+- 1 cup unsweetened coconut chips
+- ⅓ cup pumpkin seeds
+- Salt to taste
+- ⅓ cup light brown sugar
+- ⅓ cup maple syrup
+- ⅓ cup extra virgin olive oil
+- ¾ cup dried sour cherries
+
+## Method
 
 - Heat oven to 150C
 - Mix dry ingredients apart from cherries
