@@ -1,12 +1,11 @@
 # Homemade Yogurt (oven method)
 
-- 950 ml milk
-- 1/4 cup cream
-- 2 Tbsp yogurt
+- 2l milk
+- 3-4 Tbsp yogurt
 
 ## Method
 
-- Add milk and cream to pot and slowly bring to a bare simmer, until bubbles form around the edges, 82 - 93 C. If you do this slowly, it'll be less sour, apparently. Stir the milk occasionally as it heats.
+- Add milk to pot and slowly bring to a bare simmer, until bubbles form around the edges, 82 - 93 C. If you do this slowly, it'll be less sour, apparently. Stir the milk occasionally as it heats. It should take 45-50 min.
 
 - Remove pot from heat and let cool to 43 to 48 degrees.
 
