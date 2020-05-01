@@ -15,6 +15,16 @@ This is meant to be a recipe for fudgey brownies, the superior brownie variant, 
 - ½ cup (packed) dark brown sugar
 - 1 tablespoon vanilla extract
 
+## Equipment
+
+- Baking pan, 20cm
+- Foil
+- A bowl for the dry ingredients
+- Large bowl over a double boiler for the chocolate and butter. This is where everything will end up.
+- A bowl for the eggs and sugars
+- Whisk
+- Spatula
+
 ## Method
 
 Preheat oven to 200°. Line a 20cm baking pan, preferably metal, with foil, pressing firmly into corners and smoothing creases. Lightly coat with nonstick spray; set aside.
