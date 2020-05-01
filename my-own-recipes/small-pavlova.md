@@ -1,14 +1,13 @@
 # A small pavlova
 
-This is based on Annabel Langbein's recipe, but I'm going to try a 1/3 sized recipe
+This is based on Annabel Langbein's recipe, but I'm going to try a 1/2 sized recipe
 
 ## Ingredients
-
-- 2 egg whites, at room temperature
+- 3 egg whites, at room temperature
 - pinch of salt
-- 0.5 cups caster sugar
-- 2/3 tsp cornflour
-- 1/3 tsp vinegar
+- 3/4 cup caster sugar
+- 1 tsp cornflour
+- 1/2 tsp vinegar
 
 ## Equipment
 
@@ -26,7 +25,7 @@ This is based on Annabel Langbein's recipe, but I'm going to try a 1/3 sized rec
 ## Method
 
 - Heat the oven to 180°C.
-- Line a baking tray with baking paper and mark a circle about 6cm diameter.
+- Line a baking tray with baking paper and mark a circle about 12cm diameter.
 - Place the egg whites into the bowl. Add the salt and beat until stiff. this means when the whisk is lifted from the mixture, the egg white should form a peak which stays upright and curl over a little bit at the end, and the mixture will be shiny and moist looking.
 - Slowly add the sugar with the beater running (tablespoon at a time). Beat for about 10 minutes at high speed until the meringue is thick and glossy – it should be thick enough not to fall from the beater.
 - Whisk in the cornflour and vinegar.
