@@ -18,3 +18,21 @@
 - On a medium heat, cook thin crepes one by one in a non-stick pan.
 
 
+## Serving suggestions
+
+- Goat's cheese, mushrooms, caramelized onions, rocket
+- Blue cheese, (stewed?) pear, walnut, rocket
+- Bacon, apple, rocket
+- Mixed roast vegetables, pesto
+- Cherry tomatoes, basil, mozzarella, balsamic glaze
+- Steak, spinach, mushroom, balsamic glaze
+
+- Maple syrup and yogurt
+- Caster sugar and lemon
+- Whipped cream and compote
+- Ricotta, honey, chopped nuts
+- Nutella and strawberry
+- Blueberry and icing sugar
+- Stone fruit and mascarpone
+- Cooked apples and cinnamon
+
