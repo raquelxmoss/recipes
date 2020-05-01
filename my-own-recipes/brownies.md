@@ -4,26 +4,26 @@ This is meant to be a recipe for fudgey brownies, the superior brownie variant, 
 
 ## Ingredients
 
-- Nonstick vegetable oil spray (though apparently that's not a thing in Poland so)
-- ½ cup all-purpose flour
-- ¼ cup unsweetened cocoa powder
-- ¾ teaspoon kosher salt (idk, some salt?)
-- 170 grams semisweet chocolate, chopped
-- 170 grams unsalted butter, cut into pieces
-- 2.5 large eggs (I did 2 eggs plus one yolk)
-- ½ cup granulated sugar
-- ½ cup (packed) dark brown sugar
-- 1 tablespoon vanilla extract
+- [ ] Nonstick vegetable oil spray (though apparently that's not a thing in Poland so)
+- [ ] ½ cup all-purpose flour
+- [ ] ¼ cup unsweetened cocoa powder
+- [ ] ¾ teaspoon kosher salt (idk, some salt?)
+- [ ] 170 grams semisweet chocolate, chopped
+- [ ] 170 grams unsalted butter, cut into pieces
+- [ ] 2.5 large eggs (I did 2 eggs plus one yolk)
+- [ ] ½ cup granulated sugar
+- [ ] ½ cup (packed) dark brown sugar
+- [ ] 1 tablespoon vanilla extract
 
 ## Equipment
 
-- Baking pan, 20cm
-- Foil
-- A bowl for the dry ingredients
-- Large bowl over a double boiler for the chocolate and butter. This is where everything will end up.
-- A bowl for the eggs and sugars
-- Whisk
-- Spatula
+- [ ] Baking pan, 20cm
+- [ ] Foil
+- [ ] A bowl for the dry ingredients
+- [ ] Large bowl over a double boiler for the chocolate and butter. This is where everything will end up.
+- [ ] A bowl for the eggs and sugars
+- [ ] Whisk
+- [ ] Spatula
 
 ## Method
 
