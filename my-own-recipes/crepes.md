@@ -1,16 +1,16 @@
 # Crepes!
 
 
-1 cup flour
-1/4 tsp salt
-2 large eggs
-3/4 cup milk
-1/2 cup water
-3 Tbsp butter
+- 1 cup flour
+- 1/4 tsp salt
+- 2 large eggs
+- 3/4 cup milk
+- 1/2 cup water
+- 3 Tbsp butter
 
 ## Method
 
-- Melt, or even brown the butter so that it's ready
+- Melt or brown the butter (browned butter is better)
 - Whisk together dry ingredients
 - Whisk together eggs, milk, and water
 - Mix the wet ingredients with the dry, and add the melted butter. Whisk thoroughly until no lumps remain.
