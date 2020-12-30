@@ -30,6 +30,7 @@ This is meant to be a recipe for fudgey brownies, the superior brownie variant, 
 - [ ] A bowl for the eggs and sugars
 - [ ] Whisk
 - [ ] Spatula
+- [ ] Thermometer to test for doneness
 
 ## Method
 
