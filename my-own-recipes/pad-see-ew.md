@@ -5,7 +5,6 @@ Extremely quick, really good weeknight meal for when you can’t be bothered. Yo
 ### Ingredients
 
 - 170g protein of your choice
-- 1 Tbsp soy sauce for marinating meat, omit if using shrimp or tofu 
 - 3–4 Tbsp vegetable oil
 - 4 cloves garlic, chopped
 - 2 eggs
@@ -20,10 +19,11 @@ Extremely quick, really good weeknight meal for when you can’t be bothered. Yo
 - 1 Tbsp soy sauce
 - 1 ½ tsp fish sauce
 - ½ Tbsp Golden Mountain sauce
-- 2 tsp black soy sauce
+- 2 tsp black soy sauce (try kekap manis)
 
 ### Method
 
+- Cook the noodles
 - Stir the meat and soy sauce together well, then add about 2 tsp of oil and stir to coat the meat; let sit.
 - Combine all sauce ingredients together and stir to mix well.
 - Heat 1 Tbsp of the vegetable oil in a wok or a large non-stick sauté pan over medium-high heat. When hot, add all of the protein and cook just until done. Remove meat from pan and set aside in a small bowl. If there is meat juices left in the wok, wipe it with a paper towel.
