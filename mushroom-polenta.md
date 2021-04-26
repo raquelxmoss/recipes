@@ -1,3 +1,5 @@
+# Mushroom polenta
+
 250g mixed mushrooms (such as crimini, shiitake, oyster, and/or maitake), torn into 1" pieces
 4 sprigs thyme, plus leaves for serving
 3 garlic cloves, smashed
