@@ -6,19 +6,19 @@ This recipe is for _one_ cake - for a proper sandwich, double the recipe and bak
 
 _Note: Ideally, butter, sugar, eggs, and flour should have equal weights_
 
-112.5g butter, softened
-112.5g caster sugar
-112.5g self-raising flour
-4 eggs
-2 level teaspoons baking powder
-Finely grated zest of 1 lemon
+- 112.5g butter, softened
+- 112.5g caster sugar
+- 112.5g self-raising flour
+- 4 eggs
+- 2 level teaspoons baking powder
+- Finely grated zest of 1 lemon
 
 For the filling
-About 4 tbsp lemon curd
-250g icing sugar, sifted (plus extra for dusting)
-80g unsalted butter, at room temperature
-25ml semi skimmed milk
-Finely grated zest of half a lemon
+- About 4 tbsp lemon curd
+- 250g icing sugar, sifted (plus extra for dusting)
+- 80g unsalted butter, at room temperature
+- 25ml semi skimmed milk
+- Finely grated zest of half a lemon
 
 ## Method
 
