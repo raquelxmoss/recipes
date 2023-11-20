@@ -4,13 +4,15 @@ This recipe is for _one_ cake - for a proper sandwich, double the recipe and bak
 
 ## Ingredients
 
-_Note: Ideally, butter, sugar, eggs, and flour should have equal weights_
+_Note: Ideally, butter, sugar, eggs, and flour should have equal weights, based on the weight of the eggs in their shells_
+
+_Note: I've tried adding some extral lemon juice to the icing for sharpness_
 
 - 112.5g butter, softened
 - 112.5g caster sugar
 - 112.5g self-raising flour
-- 4 eggs
-- 2 level teaspoons baking powder
+- 2 eggs
+- 1 level teaspoons baking powder
 - Finely grated zest of 1 lemon
 
 For the filling
